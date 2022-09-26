@@ -25,7 +25,7 @@ def num_primo(x):
     else:
         return "el numero es primo"
 def main():
-   x= int(input(" si quiere saber si es un numero primo escriba 1, si desea hallar el seno de x con n terminos"
+   x= int(input(" si quiere saber si el numero que esribio es primo escriba 1, si desea hallar el seno de x con n terminos"
             " entonces escriba 2"))
    if x==1:
         q = int(input("digite el valor que quiere saber si es numero primo"))
